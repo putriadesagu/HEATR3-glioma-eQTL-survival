@@ -5,7 +5,9 @@ R code for the study:
 > **Germline-regulated glioma risk genes and survival: an integrative GWAS–eQTL–survival study shows that the prognostic signal of HEATR3 in lower-grade glioma is explained by tumour proliferation.**
 > Saputri A, Malueka RG, Dwianingsih EK. *[Journal, year, DOI — to be added after publication]*
 
-Zenodo archive: [DOI badge / link — added after the first release]
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.24468649.svg)](https://doi.org/10.5281/zenodo.24468649)
+
+Zenodo archive: https://doi.org/10.5281/zenodo.24468649
 
 Repository: https://github.com/putriadesagu/HEATR3-glioma-eQTL-survival
 
@@ -147,7 +149,7 @@ Figures are saved as vector PDF and 600-dpi LZW-compressed TIFF.
 
 If you use this code, please cite the article above and the Zenodo archive:
 
-> Saputri A, Malueka RG, Dwianingsih EK. *HEATR3-glioma-eQTL-survival* (v1.0). Zenodo. https://doi.org/10.5281/zenodo.[to be assigned]
+> Saputri A, Malueka RG, Dwianingsih EK. *HEATR3-glioma-eQTL-survival* (v1.0). Zenodo. https://doi.org/10.5281/zenodo.24468649
 
 Please also cite the data resources: GWAS Catalog (Sollis et al. 2023), GTEx Consortium (2020), TCGA, UCSC Xena (Goldman et al. 2020), and CGGA (Zhao et al. 2021).
 
@@ -157,4 +159,4 @@ Code: MIT License (see `LICENSE`). Third-party data remain under the terms of th
 
 ## Contact
 
-Ade Saputri — Department of Anatomical Pathology, Faculty of Medicine, Public Health and Nursing, Universitas Gadjah Mada, Yogyakarta, Indonesia — [e-mail]
+Ade Saputri — Department of Anatomical Pathology, Faculty of Medicine, Public Health and Nursing, Universitas Gadjah Mada, Yogyakarta, Indonesia — [ade.saputri@mail.ugm.ac.id]
